@@ -120,11 +120,7 @@ a {
 
 .about {
   padding-top: 120px;
-  background: radial-gradient(
-    circle at 80% 20%,
-    rgba(45, 212, 191, 0.12),
-    transparent 50%
-  );
+
 }
 
 .about-inner {
